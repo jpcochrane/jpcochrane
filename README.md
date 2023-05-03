@@ -5,5 +5,3 @@
 - 😄 Pronomes: Ele/dele
 
 ![jpcochrane´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcochrane&show_icons=true&theme=onedark)
-
-<img align="right" alt="gif-cute"src="https://cdn.discordapp.com/attachments/702666838059909141/1103398100418170880/gifmaker_me.gif>
