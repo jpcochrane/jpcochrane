@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo!
+### Olá! Seja bem-vindo!
 
 - 🌱 Estudando desenvolvimento web e mobile
 - 📫 Contate-me no e-mail: jpcochrane23@gmail.com
